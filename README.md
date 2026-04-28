@@ -5,10 +5,10 @@
 
 > **English:**
 Full-Stack Developer focused on building modern, scalable, and efficient web applications. I enjoy creating complete solutions, from intuitive user interfaces to robust backend systems.
-
-I have experience developing administrative systems, web platforms, and custom tools, always aiming for clean architecture, high performance, and maintainable code.
-
-I’m constantly learning and exploring new areas like automation, cybersecurity, and advanced software development. I like solving real-world problems and turning ideas into functional, impactful products.**
+>
+> I have experience developing administrative systems, web platforms, and custom tools, always aiming for clean architecture, high performance, and maintainable code.
+> 
+> I’m constantly learning and exploring new areas like automation, cybersecurity, and advanced software development. I like solving real-world problems and turning ideas into functional, impactful products.**
 
 
 </p>
