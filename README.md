@@ -8,7 +8,7 @@ Full-Stack Developer focused on building modern, scalable, and efficient web app
 >
 > I have experience developing administrative systems, web platforms, and custom tools, always aiming for clean architecture, high performance, and maintainable code.
 > 
-> I’m constantly learning and exploring new areas like automation, cybersecurity, and advanced software development. I like solving real-world problems and turning ideas into functional, impactful products.**
+> I’m constantly learning and exploring new areas like automation, cybersecurity, and advanced software development. I like solving real-world problems and turning ideas into functional, impactful products.
 
 
 </p>
